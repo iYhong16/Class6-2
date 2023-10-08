@@ -96,23 +96,23 @@ p{
     opacity: 1.0;
 }
 .card1{
-    background-image: url(mon.jpg);
+    background-image: url(jan.jpg);
 
 }
 .card2{
-    background-image: url(tu.jpg);
+    background-image: url(arang.jpg);
 
 }
 .card3{
-    background-image: url(ww.jpg);
+    background-image: url(put.jpg);
 
 }
 .card4{
-    background-image: url(th.jpg);
+    background-image: url(pra.jpg);
 
 }
 .card5{
-    background-image: url(gg.jpg);
+    background-image: url(su.jpg);
 
 }
 .card:hover{
